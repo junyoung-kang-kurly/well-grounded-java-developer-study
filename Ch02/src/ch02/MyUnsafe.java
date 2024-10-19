@@ -1,3 +1,5 @@
+package ch02;
+
 import sun.misc.Unsafe;
 
 import java.lang.reflect.Field;
